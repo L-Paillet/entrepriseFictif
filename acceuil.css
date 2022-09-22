@@ -51,3 +51,13 @@ body {
 h1 {
   font-weight: 700;
 }
+.presentation {
+  width: 100%;
+  padding: 20px 40px;
+  border-radius: 10px;
+  /* background-color: #243b55; */
+}
+.textPresentation {
+  font-size: 22px;
+  color: white;
+}
