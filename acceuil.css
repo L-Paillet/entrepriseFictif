@@ -53,7 +53,7 @@ h1 {
 }
 .presentation {
   width: 100%;
-  padding: 20px 40px;
+  padding: 0 40px;
   border-radius: 10px;
   /* background-color: #243b55; */
 }
